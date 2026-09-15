@@ -37,5 +37,5 @@ list_int = ["hello","world",9,18,True,False ]
 print(list_int)
 
 #9. Create a print statement that asks the user to input their own index value for the list on #8.
-x = int(input("Choose an index value: "))
-print(x)
+
+print(list_int[int(input("Choose an index value: "))])
