@@ -1,7 +1,7 @@
 #Name: Matthew Ward
 #Class: 6th Hour
 #Assignment: HW8
-#TEST COMMENT TO SEE IF GIT WORKS
+#TEST COMMENT TO SEE IF GIT WORKS 2 ELECTRIC BOOGALOO
 
 #1. Import the "random" library
 import random
